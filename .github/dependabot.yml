@@ -7,5 +7,3 @@ updates:
       interval: "monthly"
     # keep dependency updates manual for now
     open-pull-requests-limit: 0
-    reviewers:
-      - "python-poetry/triage"
